@@ -1,14 +1,13 @@
 # Project Name
+Implement version control using Git
+or SVN to manage code changes.
 
-Brief description of your project.
 
 ## Installation
-
-Describe how to install and set up your project.
-
+install git or github
 ## Usage
 
-Explain how to use your project.
+for implementing code changes
 
 ## Contributing
 
